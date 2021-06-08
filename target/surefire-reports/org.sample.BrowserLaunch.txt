@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sample.BrowserLaunch
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.915 s - in org.sample.BrowserLaunch
